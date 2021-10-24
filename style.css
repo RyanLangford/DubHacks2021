@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    padding-top: 6rem;
+    padding-bottom: 1rem;
+    background-image: url("puzzle.jpg");
+    text-align: center;
+    top: 0;
+}
+
+body {
+    font-family: "Nunito Sans", Arial, sans-serif;
+    font-size: 16px;
+    background-color: #eee;
+    background-size: cover;
+}
+
+h1, h2 {
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: .5rem;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+.anchor {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: .75em;
+    padding-left: .75em;
+    color: #F7BE4B;
+    text-shadow: palegoldenrod 1px 1px;
+}
+
+.title {
+    font-size: 6.5em;
+    color: darkslategrey;
+    text-shadow: #F7BE4B 1px 1px;
+}
