@@ -67,3 +67,11 @@ li {
 a {
     margin-right: 1em;
 }
+
+footer a {
+    color: red;
+}
+
+footer a:hover {
+    color: purple;
+}
