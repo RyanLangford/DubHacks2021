@@ -47,3 +47,19 @@ h2 {
     color: darkslategrey;
     text-shadow: #F7BE4B 1px 1px;
 }
+
+footer {
+    display: flex;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding-top: 1em;
+    color: white;
+    background-color: dimgray;
+}
+
+li {
+    text-align: left;
+    margin-left: 2em;
+}
